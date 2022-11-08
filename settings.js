@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['2347053002941,27729378630']
-global.premium = ['2347053002941,27729378630']
+global.owner = ['2347053002941']
+global.premium = ['2347053002941']
 global.ownernomer = '2347053002941 '
 global.ownername = 'Bad Handwriting TV'
 global.botname = 'King Of A Kingless World'
